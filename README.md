@@ -7,17 +7,28 @@ This project focuses on transforming raw, statement-based financial data from NV
 The process involved extracting key financial figures from unformatted disclosures and organizing them into a standardized financial statement format. The final output presents a clear and professional Consolidated Income Statement with year-over-year comparison.
 
 **🔍 Key Highlights**
+
+
 Converted raw financial report data into a structured Income Statement
 Applied accounting principles to classify revenue, expenses, and profitability
 Built a clean and readable financial format for analysis
 Performed basic financial interpretation of key metrics
+
+
 **🛠️ Skills Applied**
+
+
 Financial Reporting
 Data Cleaning & Structuring
 Accounting Fundamentals
 Financial Analysis
 Attention to Detail
-**📊 Output**<img width="1023" height="1537" alt="Income Statement" src="https://github.com/user-attachments/assets/077065ae-ff68-4713-af15-1450efa97d86" />
+
+
+**📊 Output**
 
 Consolidated Income Statement (Q1 Comparison)
 Improved data clarity and usability for decision-making
+
+<img width="1023" height="1537" alt="Income Statement" src="https://github.com/user-attachments/assets/d15169f5-f28f-4ec8-9246-dd49049068cd" />
+
